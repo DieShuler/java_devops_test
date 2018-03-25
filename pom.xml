@@ -86,6 +86,8 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<version>2.5.1</version>
 				<configuration>
+				    <localCheckout>true</localCheckout>
+			        <pushChanges>false</pushChanges>
 					<checkModificationExcludes>
 						<checkModification>pom.xml</checkModification>
 					</checkModificationExcludes>
