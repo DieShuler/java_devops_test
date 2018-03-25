@@ -4,11 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>java_devops_test</artifactId>
-<<<<<<< HEAD
 	<version>1.1.2-SNAPSHOT</version>
-=======
-	<version>1.1.0</version>
->>>>>>> 3eac26db11e75538d5df6d73a8471e19220e7483
 	<packaging>war</packaging>
 
 	<name>java_devops_test</name>
