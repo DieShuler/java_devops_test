@@ -86,10 +86,6 @@
 				<version>2.5.1</version>
 				<configuration>
 				    <localCheckout>true</localCheckout>
-			        <pushChanges>false</pushChanges>
-					<checkModificationExcludes>
-						<checkModification>pom.xml</checkModification>
-					</checkModificationExcludes>
 					<tagNameFormat>v@{project.version}</tagNameFormat>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
